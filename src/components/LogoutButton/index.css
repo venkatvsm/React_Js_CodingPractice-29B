@@ -1,1 +1,9 @@
 /* Write your CSS code here */
+.logout_Btn {
+  height: 40px;
+  width: 250px;
+  font-size: 18px;
+  font-weight: 500;
+  cursor: pointer;
+}
+
