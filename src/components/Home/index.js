@@ -6,7 +6,7 @@ import './index.css'
 const Home = () => (
   <div className="home_container">
     <Header />
-    <h1>Home Route</h1>
+    <h1 className="home_heading">Home Route</h1>
     <LogoutButton />
   </div>
 )
