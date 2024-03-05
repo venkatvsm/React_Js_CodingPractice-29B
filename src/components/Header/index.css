@@ -1,4 +1,8 @@
 /* Write your CSS code here */
+.linkEl {
+  outline: none;
+  text-decoration: none;
+}
 .header_container {
   display: flex;
   justify-content: center;
@@ -8,4 +12,5 @@
 .header_para {
   font-family: 'Roboto';
   margin: 10px;
+  font-size: 18px;
 }
