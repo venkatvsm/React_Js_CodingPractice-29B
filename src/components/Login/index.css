@@ -6,4 +6,12 @@
   align-items: center;
   height: 100vh;
   font-family: Roboto;
+  font-size: 26px;
+}
+.login_Btn {
+  height: 40px;
+  width: 250px;
+  font-size: 18px;
+  font-weight: 500;
+  cursor: pointer;
 }
